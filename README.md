@@ -1,6 +1,6 @@
-# Social Media Post Web App
+# Social Media Post Website
 
-This project is a **fullstack web application** designed for creating and managing social media-style posts.
+This project is a **fullstack website** designed for creating and managing social media-style posts.
 
 ### Features
 <ul>
